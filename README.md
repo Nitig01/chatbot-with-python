@@ -80,4 +80,3 @@ This simple chatbot provides a foundation for creating interactive applications 
 
 ---
 
-Feel free to adjust the documentation based on any additional features or modifications you may add to the chatbot.
